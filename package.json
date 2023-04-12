@@ -1,6 +1,7 @@
 {
   "name": "test-zego",
   "version": "0.1.0",
+  "homepage": "http://{sagheerahmadgmit}.github.io/{test-zego}",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
