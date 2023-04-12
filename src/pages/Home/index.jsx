@@ -12,6 +12,7 @@ const HomePage = () => {
 
     return (
         <div>
+            <h1>Home!</h1>
             <input
                 value={value}
                 onChange={(e) => setValue(e.target.value)}
